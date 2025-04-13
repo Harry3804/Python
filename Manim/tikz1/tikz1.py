@@ -45,7 +45,7 @@ class Tikz(Scene):
 
         # Tạo hình và di chuyển xuống + sang phải
         figure_group = self.create_geometry()
-        figure_group.scale(0.9)
+        figure_group.scale(1)
         figure_group.to_corner(UL)
         figure_group.shift(DOWN * 1.5 + RIGHT * 0.4)  # Dịch hình vẽ
 
