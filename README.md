@@ -17,4 +17,5 @@ Và nhớ là thêm *from manim_slides import Slide*
 manim tênfile.py Class
 
 manim-slides present Class
+
 **Bên cạnh đó, bạn phải chỉnh lại đoạn code để manimslide sẽ chạy từng slide.**
