@@ -10,7 +10,7 @@ manim -pqk tênfile.py Class (2160p)
 
 Còn đối với Manim Slide thì bạn đổi phần "Scene" ở đoạn code thành "Slide".
 
-Sử dụng "self"...
+Và nhớ là thêm *from manim_slides import Slide*
 
 *Cách chạy:*
 
