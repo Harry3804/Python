@@ -19,3 +19,7 @@ manim tênfile.py Class
 manim-slides present Class
 
 **Bên cạnh đó, bạn phải chỉnh lại đoạn code để manimslide sẽ chạy từng slide.**
+
+Đối với những code đã được build sẵn, không cần mở New Terminal thì ta chạy slide như sau:
+
+**manim-slides present Tên Class**
